@@ -9,7 +9,7 @@ Laboratório de detecção de ameaças: simulo ataques com Atomic Red Team contr
 
 **Estrutura:**
 - [documentação](./projeto-1/documentacao): relatório com técnicas de ataque (mapeadas ao MITRE ATT&CK), logs gerados e consultas usadas
-- [capturas de tela](./projeto-1/screenshots): capturas do Splunk, dashboards e detecções
+- [capturas de tela](./projeto-1/capturas-de-tela): capturas do Splunk, dashboards e detecções
 - [consultas](./projeto-1/queries): consultas SPL comentadas
 - [logs](./projeto-1/logs): amostras dos logs coletados
 
